@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="container mx-auto bg-[#efefef] h-[850px]">
       <div className="flex ml-10 mr-10  bg-red-200 h-[850px]">
         <div className="bg-blue-200 w-[50%] h-[850px]">
-          <motion.h1 className="ml-3 mt-4 text-9xl">CHECK THIS OUT</motion.h1>
+          <motion.h1 className="ml-3 mt-4 text-9xl">HERO SECTION</motion.h1>
           <p></p>
         </div>
         <div className="bg-green-200 w-[50%] h-[850px ]">
